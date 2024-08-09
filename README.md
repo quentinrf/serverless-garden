@@ -1,1 +1,1 @@
-# serverless-moisture-sensor
+# serverless-garden
